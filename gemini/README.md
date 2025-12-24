@@ -10,3 +10,14 @@ This directory serves as a sandbox for experimenting with Python scripts generat
 ## Maintenance
 
 This file should be updated as new scripts are added to the directory.
+
+## Project Evolution (Prompt History)
+
+The content of this directory was generated through the following sequence of user requests:
+
+1.  Create the `python/gemini` directory and a script (`sort_and_print.py`) to sort a list of 10 items and print the last 3 in uppercase.
+2.  Create a README describing the directory's purpose.
+3.  Update the README with more details and a list of scripts.
+4.  Fix bugs in `sort_and_print.py` related to list slicing syntax and logic.
+5.  Create a new script (`user_sort.py`) for user input and refactor `sort_and_print.py` to provide a reusable sorting function.
+6.  Commit the changes to version control.
