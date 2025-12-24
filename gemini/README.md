@@ -5,6 +5,7 @@ This directory serves as a sandbox for experimenting with Python scripts generat
 ## Current Scripts
 
 *   `sort_and_print.py`: A script that generates a list of 10 items, sorts them alphabetically, and prints the last 3 items in uppercase.
+*   `user_sort.py`: A script that prompts the user for 10 items, sorts them, and prints the last 3 items using a reusable function.
 
 ## Maintenance
 
